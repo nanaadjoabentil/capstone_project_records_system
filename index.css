@@ -1,0 +1,33 @@
+.heading
+{
+	text-align:center;
+	color: darkblue;
+}
+
+.header
+{
+	display: inline-block;
+	size: 18px;
+	color: darkblue;
+}
+
+.heading img
+{
+	
+  	width: 100px;
+  	height: 100px;
+  	background: #555;
+}
+
+#navbar {
+    text-align: justify;
+    min-width: 500px;
+}
+#nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#nav li {
+    display: inline-block;
+}
